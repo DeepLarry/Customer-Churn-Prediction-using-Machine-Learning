@@ -17,7 +17,8 @@ Tools: Jupyter Notebook, Git/GitHub
      3.) Optimization  : Performed Feature Scaling using StandardScaler and Hyperparameter Tuning via GridSearchCV (tuning                             max_depth, n_estimators, etc.).
       Evaluation: Used Confusion Matrix and Classification Reports (Precision, Recall, F1-Score) to assess model performance.
 
-      <img width="596" height="452" alt="image" src="https://github.com/user-attachments/assets/4c76b41a-c059-4c12-980c-5011a4f3df79" />
+      <img width="491" height="288" alt="image" src="https://github.com/user-attachments/assets/e69d1ffe-6369-415c-a0d3-7034a3ab59e6" />
+
 
 🔍 Insights from Feature Importance
       *Based on the model, the top factors driving customer churn are:
