@@ -29,5 +29,9 @@ Tools: Jupyter Notebook, Git/GitHub
 
 
 
+
+📝 Conclusion<img width="1192" height="905" alt="Screenshot 2026-04-07 032138" src="https://github.com/user-attachments/assets/d3d921d7-acc9-4986-8714-7fa8168eadf2" />
+
+
 📝 Conclusion
 While the initial model achieved a baseline accuracy, the project demonstrates a complete end-to-end Data Science pipeline—from raw data cleaning to advanced model tuning. This framework can be scaled with larger datasets (5000+ records) to achieve higher predictive precision as mentioned in my professional portfolio.
