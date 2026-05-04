@@ -3,7 +3,7 @@ This project aims to predict customer attrition (Churn) for an online retail bus
 
 
 🛠️ Tech StackLanguage: Python Libraries: Pandas, NumPy (Data Manipulation), Matplotlib, Seaborn (Visualization),
-                        Scikit-Learn (Machine Learning) 
+                        Scikit-Learn (Machine Learning) .
 
 Tools: Jupyter Notebook, Git/GitHub 
 
