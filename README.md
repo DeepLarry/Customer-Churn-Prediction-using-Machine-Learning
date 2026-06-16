@@ -6,7 +6,7 @@ This project aims to predict customer attrition (Churn) for an online retail bus
                         Scikit-Learn (Machine Learning) .
 
 Tools: Jupyter Notebook, Git/GitHub 
----------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
 
 
 
